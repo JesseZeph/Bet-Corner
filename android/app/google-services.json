@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "651272537694",
+    "project_id": "bet-corner-d7ea6",
+    "storage_bucket": "bet-corner-d7ea6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651272537694:android:858999577d4f63f84416cf",
+        "android_client_info": {
+          "package_name": "com.spicodex.bet_corner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651272537694-82j09ctpeujs75vksg7afbf1tvle79ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCznD8AotSB08dR2yxTJNiOS88_hgAi68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651272537694-82j09ctpeujs75vksg7afbf1tvle79ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
