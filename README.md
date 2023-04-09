@@ -2,6 +2,8 @@
 
 Sports Betting Tips App
 
+This is a football betting tips app where users get daily tips, built with flutter and firebase for backend with realtime database to store data.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
