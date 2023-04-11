@@ -1,5 +1,3 @@
-import 'package:bet_corner/controllers/purchase_api.dart';
-import 'package:bet_corner/pages/auth_page.dart';
 import 'package:bet_corner/pages/splash_screen.dart';
 import 'package:bet_corner/utils/theme/theme.dart';
 import 'package:firebase_core/firebase_core.dart';

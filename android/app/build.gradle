@@ -56,6 +56,14 @@ android {
         versionName flutterVersionName
         multiDexEnabled true
     }
+    signingConfigs {
+        release {
+            storeFile file('../bet_corner/bet_corner.keystore')
+            storePassword 'yishai'
+            keyAlias 'bet_corner'
+            keyPassword 'yishai'
+        }
+    }
 
     buildTypes {
         release {
